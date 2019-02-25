@@ -18,4 +18,5 @@ My URLs on PadawansTasks in GitHub:
 12.<a href="https://github.com/andrulet/PadawansTask12">PadawansTask12</a><br>
 13.<a href="https://github.com/andrulet/PadawansTask13">PadawansTask13</a><br>
 
-<a href="https://www.codewars.com/users/andrulet">URL on codewars profile:</a>
+URL on codewars profile:<br>
+<a href="https://www.codewars.com/users/andrulet">Codewars profile:</a>
