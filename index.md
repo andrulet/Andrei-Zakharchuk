@@ -4,7 +4,7 @@ I graduated from BNTU in 2014 energy faculty.I am energy engineer. I studied C++
 
 My URLs on PadawansTasks in GitHub:
 
-1.FancyCalc https://github.com/andrulet/FancyCalc <br>
+1.<a href="https://github.com/andrulet/FancyCalc">FancyCalc</a><br>
 2.PadawansTask1 https://github.com/andrulet/PadawansTask1 <br>
 3.PadawansTask2 https://github.com/andrulet/PadawansTask2 <br>
 4.PadawansTask3 https://github.com/andrulet/PadawansTask3 <br>
